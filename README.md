@@ -30,4 +30,4 @@
  
  
 ## ❓ サポート
-　分からないことがあれば、[Twitter](https://twitter.com/yohemal)か[Discord](https://discord.gg/Tv6pT5Y2BS)まで、ご連絡ください。
+　分からないことがあれば、[Twitter](https://twitter.com/yohemal) か [Discord](https://discord.gg/Tv6pT5Y2BS) まで、ご連絡ください。
