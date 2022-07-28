@@ -4,6 +4,11 @@
 ![2022-07-20_23 26 34](https://user-images.githubusercontent.com/74033831/180032927-f7a3c56d-dd68-4ad1-a323-c094c6413edd.png)
 
 
+## 🗣️ 利用規約
+　- 自作発言/二次改変/二次配布の禁止
+　- 営利目的での使用の禁止
+　- 当リソースパック使用時のクレジット(本ページリンク)表記の必須
+
 ## 📄 事前準備
  - [Optifine](https://optifine.net/downloads) の導入
  
